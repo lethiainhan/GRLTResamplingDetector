@@ -1,1 +1,2 @@
 These codes are used to get values in Table 2 of the paper entitled "Statistical modeling and likelihood ratio testing for resampling detection in TIFF images" by Nhan Le, Florent Retraint and Hichem Snoussi.
+The main code is GRLTResamplingDetector.m.
